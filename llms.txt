@@ -1,0 +1,23 @@
+# Sprigo
+
+> Sprigo is a simple plant watering reminder for iPhone: it tells you when each houseplant needs water, based on its pot, soil, light and the season — no plant-ID gimmicks, no account needed, your plant list stays on your phone.
+
+Water Plant Reminder: Sprigo — Care Schedule & Light Meter. iPhone app, available on the App Store: https://apps.apple.com/app/id6815112320?pt=128839649&ct=ai_web
+
+## Guides
+
+- [How to Stop Overwatering Houseplants (and Let an App Do the Math)](https://jjjulietttee-jpg.github.io/sprigo-app/how-to-stop-overwatering-houseplants): Water on a schedule that matches pot, light and season, and skip a day when the soil is still wet.
+- [How to Measure Light for Your Houseplants With an iPhone](https://jjjulietttee-jpg.github.io/sprigo-app/plant-light-meter-app-iphone): Point the back camera at the spot and read low, indirect, bright window or direct sun.
+- [How to Get a Reminder to Water Your Plants on iPhone](https://jjjulietttee-jpg.github.io/sprigo-app/plant-watering-reminder-app-iphone): Add each plant once and get one daily reminder, only on days something is thirsty.
+- [How to Keep Plants Alive While You Are Away](https://jjjulietttee-jpg.github.io/sprigo-app/water-plants-while-on-vacation-app): Add your trip dates and let the app move waterings to before you leave or the day you return.
+
+## App
+
+- [Home](https://jjjulietttee-jpg.github.io/sprigo-app/): what Sprigo does, features, pricing
+- [App Store](https://apps.apple.com/app/id6815112320?pt=128839649&ct=ai_web): download, screenshots, reviews
+
+## Optional
+
+- [Privacy](https://jjjulietttee-jpg.github.io/sprigo-app/privacy)
+- [Support](https://jjjulietttee-jpg.github.io/sprigo-app/support)
+- [Terms](https://jjjulietttee-jpg.github.io/sprigo-app/terms)
